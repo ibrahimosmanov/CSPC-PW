@@ -1,0 +1,21 @@
+Assuming unrestricted shared filesystem usage.
+
+SNAKEMAKE
+=========
+  Date: 2026-10-11 18:56:44
+  Workflow ID: cf5ff69c-fb34-4284-a21f-df87e122d643
+  Platform: Linux-7.0.0-30-generic-x86_64-with-glibc2.43
+  Host: reis-HP-ProBook-4-G1i-16-inch-Notebook-AI-PC
+  User: reis
+  Snakemake version: 9.27.0
+  Python version: 3.11.17 (main, Oct  1 2026, 20:17:42) [GCC 14.3.0]
+  Command: /home/reis/miniconda3/envs/cspc/bin/snakemake --cores 1 figure.png
+  Snakefile: /home/reis/CSPC/PW1/Lab B/Snakefile
+  Base directory: /home/reis/CSPC/PW1/Lab B
+  Run directory: /home/reis/CSPC/PW1/Lab B
+  Working directory: /home/reis/CSPC/PW1/Lab B
+  Config file(s): []
+  Config MD5: 99914b932bd37a50b983c5e7c90ae93b
+
+Building DAG of jobs...
+Nothing to be done (all requested files are present and up to date).
